@@ -1,2 +1,2 @@
 # PROYECTO-SENATI-3
-Proyecto de terecer ciclo.
+Proyecto de tercer ciclo.
